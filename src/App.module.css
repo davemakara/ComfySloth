@@ -1,0 +1,25 @@
+.div-wrapper {
+  padding: 20px 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-around;
+}
+
+.div-wrapper div {
+  max-width: 380px;
+  min-height: 300px;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border: 4px solid black;
+}
+
+.div-wrapper div h1 {
+  font-size: 26px;
+}
+
+.div-wrapper div img {
+  width: 100%;
+  height: 10rem;
+  object-fit: cover;
+}
