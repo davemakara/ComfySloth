@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ComfySloth/static/css/main.f1755bcd.css",
-    "main.js": "/ComfySloth/static/js/main.8bfa2bb6.js",
+    "main.js": "/ComfySloth/static/js/main.5a1789c6.js",
     "index.html": "/ComfySloth/index.html",
     "main.f1755bcd.css.map": "/ComfySloth/static/css/main.f1755bcd.css.map",
-    "main.8bfa2bb6.js.map": "/ComfySloth/static/js/main.8bfa2bb6.js.map"
+    "main.5a1789c6.js.map": "/ComfySloth/static/js/main.5a1789c6.js.map"
   },
   "entrypoints": [
     "static/css/main.f1755bcd.css",
-    "static/js/main.8bfa2bb6.js"
+    "static/js/main.5a1789c6.js"
   ]
 }
