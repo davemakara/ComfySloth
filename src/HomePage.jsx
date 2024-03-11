@@ -5,6 +5,7 @@ const Homepage = () => {
     <div>
       <h1>This is the main page</h1>
       <h4>You can check our products by clicking the button below!</h4>
+      <button>Click me</button>
       {/* <button>
         <Link to="/products">Products</Link>
       </button> */}
